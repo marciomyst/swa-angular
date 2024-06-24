@@ -1,4 +1,4 @@
-# Azure Static Web Apps tech demo starter
+# Azure Static Web Apps tech demo starter 1.0
 
 This project is based on Angular but you don't need to know any framework specific details to demo SWA
 
